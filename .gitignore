@@ -1,0 +1,25 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# 蓝奏云数据
+data/
+
+# Build artifacts
+lazgo
+lazgo.exe
+*.exe
+
+# OMC 工作目录
+.omc/
+go/.omc/
+
+# Claude Code 配置
+.claude/
+.claude.*
+
+# 系统文件
+.DS_Store
+Thumbs.db
